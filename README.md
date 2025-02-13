@@ -51,3 +51,22 @@
 <ol>
     <li>Clone the repository:
         <pre>git clone https://github.com/your-username/mnist-digit-classification-dnn.git
+<h2>Results</h2>
+<p>After training the model for 10 epochs, the following results were observed:</p>
+<ul>
+    <li><b>Training Accuracy:</b> ~97%</li>
+    <li><b>Test Accuracy:</b> ~96% (may vary depending on the environment).</li>
+</ul>
+
+<h3>Sample Prediction</h3>
+<p>For a sample test image, the predicted digit is displayed as:</p>
+<pre>Predicted Digit: 2</pre>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the license terms.</p>
+
+<h2>Acknowledgments</h2>
+<ul>
+    <li><b>TensorFlow/Keras:</b> for providing an easy-to-use framework for building neural networks.</li>
+    <li><b>MNIST Dataset:</b> for the handwritten digit dataset used in this project.</li>
+</ul>
